@@ -1,3 +1,16 @@
+/*********************************************************************************
+WEB322 – Assignment 02
+I declare that this assignment is my own work in accordance with Seneca Academic Policy.  
+No part of this assignment has been copied manually or electronically from any other source (including 3rd party web sites) or distributed to other students.
+
+Name: Ian Hartog
+Student ID: 163592199
+Date: Oct 13 2024
+Vercel Web App URL: 
+GitHub Repository URL: https://github.com/ihartog/web322-app
+
+********************************************************************************/ 
+
 const express = require('express');
 const path = require('path');
 const app = express();
